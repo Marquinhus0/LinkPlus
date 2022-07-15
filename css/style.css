@@ -25,6 +25,7 @@ span {
   padding: 4px;
   width: 100px;
   height: 100px;
+  object-fit: cover;
   border-radius: 100px;
   border: #4263eb solid 5px;
   margin-bottom: 20px;
